@@ -12,10 +12,6 @@ I’ve developed and maintained hotel management systems, mobile applications, a
 - **Tools**: Git, Visual Studio, Android Studio
 - **Soft Skills**: Problem Solving, Teamwork, Communication
 
-## 📌 Projects
-- **HotelPro Integration** – Enhanced a hotel PMS with C# and SQL Server, adding features and integrating smart systems.
-- **Housekeeping Tablet App** – Developed new features in a Java-based Android app for hotel operations.
-
 ## 📫 Contact Me
 - Email: kkhantforjob@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kaung-khant-paing-1900s/
