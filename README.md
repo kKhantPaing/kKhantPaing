@@ -12,6 +12,5 @@ I’ve developed and maintained hotel management systems, mobile applications, a
 - **Tools**: Git, Visual Studio, Android Studio
 - **Soft Skills**: Problem Solving, Teamwork, Communication
 
-## 📫 Contact Me
-- Email: kkhantforjob@gmail.com
-- LinkedIn: https://www.linkedin.com/in/kaung-khant-paing-1900s/
+## 📫 Connect with Me
+For more about my education, experience, and certifications, please visit my [LinkedIn Profile](https://www.linkedin.com/in/kaung-khant-paing-1900s).
