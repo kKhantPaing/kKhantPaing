@@ -1,7 +1,7 @@
 <div align="center">
 
 # Kaung Khant Paing
-**Software Developer | C# • Java • Python • SQL**
+**Software Engineer | C# • .NET • Python • Java • SQL**
 
 [![Streamlit App](https://img.shields.io/badge/Live_Project-AI_Assistant-bd93f9?style=for-the-badge&logo=streamlit&logoColor=white)](https://kp-personal-assistant.streamlit.app/)
 
@@ -10,10 +10,14 @@
 ---
 
 ### 💻 Profile
-I am a software developer with 2 years of experience in full-stack development. I specialize in building management systems, mobile applications, and system integrations with third-party APIs.
+Software Engineer with 2+ years of experience developing enterprise and mobile applications using C#, .NET, Java, Python, and SQL.
 
-- 🔭 **Current Focus:** Python-based AI tools.
-- ⚡ **Tech Philosophy:** Efficiency through clean architecture and optimized queries.
+I have experience building management systems, mobile applications, database-driven solutions, system integrations, and hotel automation.
+
+- 🔭 **Current Focus:** Backend development, Python-based AI tools, and automation  
+- 🎓 **Currently:** MSc Computer Science student at Mahidol University
+- ⚡ **Tech Philosophy:** Build practical solutions with clean code, efficient architecture, and optimized database queries
+- 🚀 **Interested In:** Software Engineering, Backend Development, AI & Automation
 
 ---
 
@@ -22,7 +26,7 @@ I am a software developer with 2 years of experience in full-stack development. 
 #### 🤖 [KP Personal Assistant](https://github.com/kKhantPaing/KP-Personal-Assistant)
 *   **Overview:** A Streamlit-based AI chat assistant utilizing **Groq LLMs** to answer questions from given knowledge sources.
 *   **Tech:** Python, Streamlit, Groq API.
-*   **Key Focus:** Training the assistant to answer queries specifically from resume and GitHub knowledge sources.
+*   **Key Focus:** Building an AI assistant that can answer questions using resume and GitHub knowledge sources.
 *   **Live Demo:** [View Web App](https://kp-personal-assistant.streamlit.app/)
 
 #### 🩸 [Blood Management System](https://github.com/kKhantPaing/Blood-Management-System-Py)
@@ -58,9 +62,6 @@ I am a software developer with 2 years of experience in full-stack development. 
 ---
 
 <div align="center">
-
-### 📈 Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kKhantPaing&theme=dracula&hide_border=true)
 
 📫 **Connect with me:** 
 [LinkedIn](https://www.linkedin.com/in/kaung-khant-paing-1900s) | [Portfolio](https://kp-personal-assistant.streamlit.app/) | [Email](mailto:kkhantforjob@gmail.com)
