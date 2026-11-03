@@ -27,9 +27,9 @@ My background includes management systems, mobile applications, database-driven 
 ### 📂 Featured Repositories
 
 #### 🤖 [KP Personal Assistant](https://github.com/kKhantPaing/KP-Personal-Assistant)
-- **Overview:** A Streamlit-based AI chat assistant using Groq LLMs to answer questions from provided knowledge sources.
-- **Tech:** Python, Streamlit, Groq API.
-- **Key Focus:** Building an AI assistant that answers questions using resume and GitHub knowledge sources.
+- **Overview:** Overview: A Streamlit-based AI assistant that answers questions about my background, experience, skills, and GitHub projects using Google Gemini.
+- **Tech:** Python, Streamlit, Google Gemini API, REST APIs.
+- **Key Focus:** Context-grounded AI responses, GitHub README retrieval and summarization, persistent caching, and real-time response streaming.
 - **Live Demo:** [View Web App](https://kp-personal-assistant.streamlit.app/)
 
 #### 🩸 [Blood Management System](https://github.com/kKhantPaing/Blood-Management-System-Py)
